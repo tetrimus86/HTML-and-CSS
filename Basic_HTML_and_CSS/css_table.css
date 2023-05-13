@@ -1,0 +1,14 @@
+table {
+	border: 1px solid silver;
+	}
+	
+td: hover {
+	backround-color: yellow;
+	color: black;
+}
+
+tr, th {
+	backround-color: darkgreen;
+	color: white;
+	
+	
